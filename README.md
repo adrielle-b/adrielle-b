@@ -1,16 +1,50 @@
-### Hi there 👋
-I'm Adrielle, a fullstack web developer!
-<!--
-**adrielle-b/adrielle-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá 👋
+👩‍💻 Sou uma desenvolvedora full stack e atualmente, tenho experiência com desenvolvimento front-end e back-end adquirida durante uma rotina intensa de entregas de projetos dentro do curso de Desenvolvimento Full Stack na Trybe e também tenho conhecimentos em clound que adquiri durante o curso de Fundamentos AWS na Escola da Nuvem.
 
-Here are some ideas to get you started:
+⬅️ Minha formação em Ciências Contábeis e experiência prévia em contabilidade, adquirida durante estágios e trabalho efetivo, me proporcionaram uma base sólida de habilidades analíticas e organizacionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Meus estudos abrangem uma variedade de tópicos essenciais em desenvolvimento web, como JavaScript, React.js, CSS, Redux, Testes Unitários, Testes de Integração, Docker, MySQL, Node.js, Express, ORM Sequelize, TypeScript, POO, princípios SOLID, Python e Clound Aws.
+
+🌟 Além do meu entusiasmo pela tecnologia, tenho outros interesses que são meus hobbies. Gosto de acompanhar as tendências do mercado financeiro, jogar jogos cooperativos e assistir a séries.
+
+🚀Estou aberta a oportunidades desafiadoras que me permitam crescer profissionalmente e explorar as diversas áreas da tecnologia. Vamos conectar e discutir como podemos colaborar juntos.
+
+
+<h3 align="left">🖥️ Tecnologias e Ferramentas:</h3>
+
+<div align="center" >
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" title = "TYPESCRIPT"/></code>
+<code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title = "PYTHON"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" title = "REACT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" title = "NEXT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redux.svg" title = "REDUX"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Jest.svg" title = "JEST"/></code>
+<code><img width="40px" src="https://api.iconify.design/logos/testing-library.svg" title = "REACT TESTING LIBRARY"/></code>
+<code><img width="40px" src="https://api.iconify.design/logos/mocha.svg" title = "MOCHA TESTING"/></code>
+<code><img width="40px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" title = "VITE"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" title = "ESLINT"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=docker" title = "DOCKER"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Light.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" title = "NODE JS"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Light.svg" title = "EXPRESS"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Sequelize-Dark.svg" title = "SEQUELIZE"/></code>
+<code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" title = "GITHUB"/></code> 
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" title = "SLACK"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" title = "VS CODE"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Light.svg" title = "LINUX"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" title = "UBUNTU"/></code>
+<code><img width="40px" src="https://api.iconify.design/logos/jwt-icon.svg" title = "JWT LIBRARY"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title = "Aws Web Services"/></code>
+</div>
+
+<h3 align="left">💬 Contato:</h3>
+<p align="left">
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adrielle-braga/)](https://www.linkedin.com/in/adrielle-braga/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriielle@gmail.com)
+
+</p>
