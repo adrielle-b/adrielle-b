@@ -9,6 +9,7 @@
 
 🚀Estou aberta a oportunidades desafiadoras que me permitam crescer profissionalmente e explorar as diversas áreas da tecnologia. Vamos conectar e discutir como podemos colaborar juntos.
 
+##
 
 <h3 align="left">🖥️ Tecnologias e Ferramentas:</h3>
 
@@ -41,6 +42,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title = "Aws Web Services"/></code>
 </div>
 
+##
 <h3 align="left">💬 Contato:</h3>
 <p align="left">
 
