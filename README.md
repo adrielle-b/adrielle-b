@@ -1,5 +1,5 @@
 ### Olá 👋
-👩‍💻 Sou uma desenvolvedora full stack e atualmente, tenho experiência com desenvolvimento front-end e back-end adquirida durante uma rotina intensa de entregas de projetos dentro do curso de Desenvolvimento Full Stack na Trybe e também tenho conhecimentos em clound que adquiri durante o curso de Fundamentos AWS na Escola da Nuvem.
+👩‍💻 Sou uma desenvolvedora full stack e atualmente, tenho experiência com desenvolvimento front-end e back-end adquirida durante uma rotina intensa de entregas de projetos dentro do curso de Desenvolvimento Full Stack na Trybe e também tenho conhecimentos em clound, sou certificada AWS Clound Practitioner.
 
 ⬅️ Minha formação em Ciências Contábeis e experiência prévia em contabilidade, adquirida durante estágios e trabalho efetivo, me proporcionaram uma base sólida de habilidades analíticas e organizacionais.
 
