@@ -1,9 +1,9 @@
 ### Olá 👋
-👩‍💻 Sou uma desenvolvedora full stack e atualmente, tenho experiência com desenvolvimento front-end e back-end adquirida durante uma rotina intensa de entregas de projetos dentro do curso de Desenvolvimento Full Stack na Trybe e também tenho conhecimentos em clound, sou certificada AWS Clound Practitioner.
+👩‍💻 Sou uma desenvolvedora full stack e atualmente, tenho experiência com desenvolvimento front-end e back-end adquirida durante uma rotina intensa de entregas de projetos dentro do curso de Desenvolvimento Full Stack na Trybe e também tenho conhecimentos em cloud, sou certificada AWS Cloud Practitioner.
 
 ⬅️ Minha formação em Ciências Contábeis e experiência prévia em contabilidade, adquirida durante estágios e trabalho efetivo, me proporcionaram uma base sólida de habilidades analíticas e organizacionais.
 
-💡 Meus estudos abrangem uma variedade de tópicos essenciais em desenvolvimento web, como JavaScript, React.js, CSS, Redux, Testes Unitários, Testes de Integração, Docker, MySQL, Node.js, Express, ORM Sequelize, TypeScript, POO, princípios SOLID, C#, .NET e Clound Aws.
+💡 Meus estudos abrangem uma variedade de tópicos essenciais em desenvolvimento web, como JavaScript, React.js, CSS, Redux, Testes Unitários, Testes de Integração, Docker, MySQL, Node.js, Express, ORM Sequelize, TypeScript, POO, princípios SOLID, C#, .NET e Cloud Aws.
 
 🌟 Além do meu entusiasmo pela tecnologia, tenho outros interesses que são meus hobbies. Gosto de acompanhar as tendências do mercado financeiro, jogar jogos cooperativos e assistir a séries.
 
