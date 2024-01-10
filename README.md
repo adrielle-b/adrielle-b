@@ -15,7 +15,7 @@
 
 <div align="center" >
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title = "CSS3"/></code>       
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" title = "TYPESCRIPT"/></code>
 <code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title = "PYTHON"/></code>
@@ -39,7 +39,8 @@
 <code><img width="40px" src="https://api.iconify.design/logos/jwt-icon.svg" title = "JWT LIBRARY"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title = "AMAZON WEB SERVICES"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "C#"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title = ".NET"/></code>          
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title = ".NET"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title = "TAILWIND"/></code>  
 </div>
 
 ##
