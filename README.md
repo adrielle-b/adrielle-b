@@ -1,5 +1,5 @@
 ### Olá 👋
-👩‍💻 Sou uma desenvolvedora full stack e atualmente, tenho experiência com desenvolvimento front-end e back-end adquirida durante uma rotina intensa de entregas de projetos dentro do curso de Desenvolvimento Full Stack na Trybe e também tenho conhecimentos em cloud, sou certificada AWS Cloud Practitioner.
+👩‍💻 Sou uma desenvolvedora full stack e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho conhecimentos práticos com desenvolvimento front-end e back-end adquirida durante uma rotina intensa de entregas de projetos dentro do curso de Desenvolvimento Full Stack na Trybe e também tenho conhecimentos em cloud, sou certificada AWS Cloud Practitioner.
 
 ⬅️ Minha formação em Ciências Contábeis e experiência prévia em contabilidade, adquirida durante estágios e trabalho efetivo, me proporcionaram uma base sólida de habilidades analíticas e organizacionais.
 
