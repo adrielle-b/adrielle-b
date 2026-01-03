@@ -1,14 +1,4 @@
 ### Olá 👋
-👩‍💻 Sou uma desenvolvedora full stack e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho conhecimentos práticos com desenvolvimento front-end e back-end adquirida durante uma rotina intensa de entregas de projetos dentro do curso de Desenvolvimento Full Stack na Trybe e também tenho conhecimentos em cloud, sou certificada AWS Cloud Practitioner.
-
-⬅️ Minha formação em Ciências Contábeis e experiência prévia em contabilidade, adquirida durante estágios e trabalho efetivo, me proporcionaram uma base sólida de habilidades analíticas e organizacionais.
-
-💡 Meus estudos abrangem uma variedade de tópicos essenciais em desenvolvimento web, como JavaScript, React.js, CSS, Tailwind, Redux, Testes Unitários, Testes de Integração, Docker, MySQL, Node.js, Express, ORM Sequelize, TypeScript, POO, princípios SOLID, C#, .NET e Cloud Aws.
-
-🌟 Além do meu entusiasmo pela tecnologia, tenho outros interesses que são meus hobbies. Gosto de acompanhar as tendências do mercado financeiro, jogar jogos cooperativos e assistir a séries.
-
-🚀Estou aberta a oportunidades desafiadoras que me permitam crescer profissionalmente e explorar as diversas áreas da tecnologia. Vamos conectar e discutir como podemos colaborar juntos.
-
 ##
 
 <h3 align="left">🖥️ Tecnologias e Ferramentas:</h3>
