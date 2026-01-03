@@ -36,7 +36,6 @@
 <h3 align="left">💬 Contato:</h3>
 <p align="left">
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adrielle-braga/)](https://www.linkedin.com/in/adrielle-braga/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriielle@gmail.com)
 
 </p>
